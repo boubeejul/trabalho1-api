@@ -13,7 +13,8 @@ import jakarta.persistence.OneToOne;
 
 @JsonIdentityInfo(
 		generator = ObjectIdGenerators.PropertyGenerator.class,
-		property = "id_telefone"
+		property = "id_telefone",
+		scope =  Telefone.class
 		) 
 @Entity
 public class Telefone {

@@ -13,7 +13,8 @@ import jakarta.persistence.ManyToOne;
 
 @JsonIdentityInfo(
 		generator = ObjectIdGenerators.PropertyGenerator.class,
-		property = "id_turma"
+		property = "id_turma",
+		scope =  Turma.class
 		) 
 @Entity
 public class Turma {
