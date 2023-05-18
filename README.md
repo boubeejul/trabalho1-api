@@ -8,7 +8,7 @@
 - [Juliana Boubée](https://github.com/boubeejul)
 - [Jullian Carlo](https://github.com/JullianCarlo)
 - [Luiz Otávio](https://github.com/luizitosuares)
-- [Paulo Cesar](https://github.com/PAULOCEZAR01)
+- [Paulo Cezar](https://github.com/PAULOCEZAR01)
 - [Rômulo Andriolo](https://github.com/Artoda)
 
 # Tecnologias utilizadas
